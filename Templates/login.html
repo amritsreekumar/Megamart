@@ -1,0 +1,65 @@
+
+<div class="container" >
+	<div class="row">
+        <div class="span12">
+    		<font size="6" color="white">Please login</font>
+              </div>
+              <div class="modal-body">
+                <div class="well">
+                  <ul class="nav nav-tabs">
+                    <li class="active"><a href="#login" data-toggle="tab"></a></li>
+             
+                  </ul>
+                  <div id="myTabContent" class="tab-content">
+                    <div class="tab-pane active in" id="login">
+                      
+                      
+                      <form class="form-horizontal"  method="POST">
+                     
+                     
+                        <fieldset>
+                          
+                          <div class="control-group">
+                            <!-- Username -->
+                            <label class="control-label"  for="username" >Username</label>
+                            <div class="controls">
+                              <input type="text"  data-ng-model="form.userid"  class="input-xlarge" placeholder = "Enter Username">
+                            </div>
+                          </div>
+     
+                          <div class="control-group">
+                            <!-- Password-->
+                            <label class="control-label" for="password" >Password</label>
+                            <div class="controls">
+                              <input type="password"  data-ng-model="form.pswrd"  class="input-xlarge" placeholder = "Enter Password">
+                            </div>
+                          </div>
+                          
+                          <p id = "alert" >
+                          
+                       </p>
+     
+     
+                          <div class="control-group">
+                            <!-- Button -->
+                            <div class="controls">
+                              <button class="btn btn-success" data-ng-click = "validate(form)">Login</button>
+                            </div>
+                          </div>
+                        </fieldset>
+                      </form>                
+                    
+                        
+                                     
+                                     
+                    
+                   
+                      
+                    </div>
+                </div>
+              </div>
+            </div>
+        </div>
+	</div>
+	
+	

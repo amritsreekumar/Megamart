@@ -1,0 +1,3 @@
+
+Electronics = '[{"name":"panasonic","price":"500","image":"images/pana.jfif"},{"name":"microsoft surface","price":"1000","image":"images/ms.jpeg"},{"name":"samsung","price":"300","image":"images/samsung.jfif"},{"name":"lenovo yoga","price":"750","image":"images/lenovo.jpeg"},{"name":"iphone 5s","price":"299","image":"images/iphone.jpeg"},{"name":"microsoft lumia","price":"200","image":"images/lumia.jpeg"}]';
+

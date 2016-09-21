@@ -1,0 +1,3 @@
+
+Books = '[{"name":"Another Brooklyn","price":"5","image":"images/ab.jfif"},{"name":"Catching Fire","price":"7","image":"images/cf.jfif"},{"name":"Divergent","price":"10","image":"images/d.jfif"},{"name":"The heart of Amish","price":"15","image":"images/thof.jfif"},{"name":"The Trojen Horse","price":"20","image":"images/tth.jpeg"},{"name":"The fault in our stars","price":"15","image":"images/tfios.jpeg"},{"name":"Harry Potter","price":"10","image":"images/hp.jpeg"}]';
+
